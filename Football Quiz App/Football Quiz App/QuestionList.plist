@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>options</key>
+		<array>
+			<string>Twelve</string>
+			<string>One</string>
+			<string>Nine</string>
+			<string>Four</string>
+		</array>
+		<key>answer</key>
+		<string>Twelve</string>
+		<key>question</key>
+		<string>How many host cities are there at Euro 2020?</string>
+	</dict>
+	<dict>
+		<key>options</key>
+		<array>
+			<string>Fifty</string>
+			<string>Forty-nine</string>
+			<string>Fifty-one</string>
+			<string>Forty-eight</string>
+		</array>
+		<key>answer</key>
+		<string>Fifty-one</string>
+		<key>question</key>
+		<string>How many matches will be played at Euros 2020?</string>
+	</dict>
+	<dict>
+		<key>options</key>
+		<array>
+			<string>Turkey</string>
+			<string>Ukraine</string>
+			<string>Poland</string>
+			<string>Finland</string>
+		</array>
+		<key>answer</key>
+		<string>Finland</string>
+		<key>question</key>
+		<string>Which nation will play Euro Cup for the first time?</string>
+	</dict>
+	<dict>
+		<key>options</key>
+		<array>
+			<string>Twenty</string>
+			<string>Twenty-four</string>
+			<string>Twenty-eight</string>
+			<string>Thirty-two</string>
+		</array>
+		<key>answer</key>
+		<string>Twenty-four</string>
+		<key>question</key>
+		<string>How many country are taking part in Euro 2020?</string>
+	</dict>
+	<dict>
+		<key>options</key>
+		<array>
+			<string>Wembley</string>
+			<string>Baku</string>
+			<string>Puskas</string>
+			<string>Parken</string>
+		</array>
+		<key>answer</key>
+		<string>Wembley</string>
+		<key>question</key>
+		<string>At what stadium is the final of Euro 2020?</string>
+	</dict>
+	<dict>
+		<key>options</key>
+		<array>
+			<string>England</string>
+			<string>Scotland</string>
+			<string>Germany</string>
+			<string>Northen-Ireland</string>
+		</array>
+		<key>answer</key>
+		<string>Northen-Ireland</string>
+		<key>question</key>
+		<string>Which host nation will not take part in Euro 2020?</string>
+	</dict>
+	<dict>
+		<key>options</key>
+		<array>
+			<string>Croatia</string>
+			<string>Portugal</string>
+			<string>Belgium</string>
+			<string>France</string>
+		</array>
+		<key>answer</key>
+		<string>Belgium</string>
+		<key>question</key>
+		<string>Which team are nicknamed &apos;Red Devils&apos; ?</string>
+	</dict>
+	<dict>
+		<key>options</key>
+		<array>
+			<string>France</string>
+			<string>Germany</string>
+			<string>Portugal</string>
+			<string>Italy</string>
+		</array>
+		<key>answer</key>
+		<string>Portugal</string>
+		<key>question</key>
+		<string>Who are the defending champions of the Euro Cup?</string>
+	</dict>
+	<dict>
+		<key>options</key>
+		<array>
+			<string>Amerstam</string>
+			<string>Baku</string>
+			<string>London</string>
+			<string>Munich</string>
+		</array>
+		<key>answer</key>
+		<string>London</string>
+		<key>question</key>
+		<string>Which city will host the most games?</string>
+	</dict>
+	<dict>
+		<key>options</key>
+		<array>
+			<string>Copenhagen</string>
+			<string>Glasgow</string>
+			<string>Bilbao</string>
+			<string>Dublin</string>
+		</array>
+		<key>answer</key>
+		<string>Copenhagen</string>
+		<key>question</key>
+		<string>Which host city has the smallest stadium?</string>
+	</dict>
+</array>
+</plist>
